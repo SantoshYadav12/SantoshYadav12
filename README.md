@@ -2,6 +2,8 @@
 
 A brief description of ENTITY.
 
+An entity is a distinguishable and meaningful object or concept that can be identified and described. Examples of entities include customers, products, employees, and orders
+
 An entity can refer to any identifiable object or thing that exists. It could be a person, place, thing, or concept. The term is often used in a broad, abstract sense to describe any discrete and separately identifiable unit.
 
 In the context of databases and data modeling, an entity refers to a distinct object, concept, or thing about which data can be stored. It is often represented as a table in a relational database. Each row in the table represents an instance of that entity, and each column represents an attribute or property of the entity.
@@ -14,8 +16,16 @@ In the context of databases and data modeling, an entity refers to a distinct ob
 **Abstract Entity:** Referring to conceptual entities like a project or a process.
 
 
+**Attributes:**
 
+Each entity has attributes that describe its properties. For example, a "Customer" entity might have attributes such as "CustomerID," "FirstName," "LastName," and "Email."
 
+**Entity-Relationship Diagram (ERD):**
+
+ERD is a graphical representation that illustrates the relationships between entities. Entities are represented as rectangles, and relationships are depicted by connecting lines.
+An Entity-relationship Diagram (ER Diagram) describes the relationship of entities that need to be stored in a database.    
+ER Diagram is mainly a structural design for the database. It is a framework using specialized symbols to define the relationship between entities.  
+ER diagram is created based on three main components entities, attributes, and relationships
 
 ## Usage/Examples
 
